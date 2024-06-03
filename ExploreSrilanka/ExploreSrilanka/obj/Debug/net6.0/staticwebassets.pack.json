@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExploreSrilanka.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExploreSrilanka.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-families\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\font-families\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\font-family.css",
+      "PackagePath": "staticwebassets\\css\\font-family.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\site-bot.css",
+      "PackagePath": "staticwebassets\\css\\site-bot.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\img\\chat.gif",
+      "PackagePath": "staticwebassets\\img\\chat.gif"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\img\\chat.png",
+      "PackagePath": "staticwebassets\\img\\chat.png"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\img\\chatbot1.jpg",
+      "PackagePath": "staticwebassets\\img\\chatbot1.jpg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\img\\sigiriya1.jpg",
+      "PackagePath": "staticwebassets\\img\\sigiriya1.jpg"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\js\\site-bot.js",
+      "PackagePath": "staticwebassets\\js\\site-bot.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\git_repos\\ai_chatbot\\ExploreSrilanka\\ExploreSrilanka\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExploreSrilanka.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExploreSrilanka.props",
+      "PackagePath": "build\\ExploreSrilanka.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExploreSrilanka.props",
+      "PackagePath": "buildMultiTargeting\\ExploreSrilanka.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExploreSrilanka.props",
+      "PackagePath": "buildTransitive\\ExploreSrilanka.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

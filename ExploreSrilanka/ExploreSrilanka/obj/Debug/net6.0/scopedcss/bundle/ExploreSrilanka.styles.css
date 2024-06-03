@@ -1,0 +1,49 @@
+/* _content/ExploreSrilanka/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-hmsy3ktwmj] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-hmsy3ktwmj] {
+  color: #0077cc;
+}
+
+.btn-primary[b-hmsy3ktwmj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-hmsy3ktwmj], .nav-pills .show > .nav-link[b-hmsy3ktwmj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-hmsy3ktwmj] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-hmsy3ktwmj] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-hmsy3ktwmj] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-hmsy3ktwmj] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-hmsy3ktwmj] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

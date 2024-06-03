@@ -1,0 +1,95 @@
+﻿/*------------------------- Popins ----------------------------*/
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 100;
+    src: url('font-families/poppins-thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 100;
+    font-style: italic;
+    src: url('font-families/poppins-thinitalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 200;
+    src: url('font-families/poppins-extralight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 200;
+    font-style: italic;
+    src: url('font-families/poppins-extralightitalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 300;
+    src: url('font-families/poppins-light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 300;
+    font-style: italic;
+    src: url('font-families/poppins-lightitalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 400;
+    src: url('font-families/poppins-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 500;
+    src: url('font-families/poppins-medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 500;
+    font-style: italic;
+    src: url('font-families/poppins-mediumitalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 600;
+    src: url('font-families/poppins-semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 600;
+    font-style: italic;
+    src: url('font-families/poppins-semibolditalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 700;
+    src: url('font-families/poppins-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'poppins';
+    font-weight: 700;
+    font-style: italic;
+    src: url('font-families/poppins-bolditalic.ttf') format('truetype');
+}
+
+/* Font-Size */
+
+.font-size-15 {
+    font-size: 15px !important;
+}
+
+.font-size-12 {
+    font-size: 12px !important;
+}

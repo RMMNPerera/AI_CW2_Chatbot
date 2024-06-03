@@ -1,0 +1,1249 @@
+"Id";"QuestionId";"AnswerTypeId";"Text";"Image";"IsHtml";"IsButton"
+1;1;1;"Hi there!";"";0;0
+2;1;1;"Hello, good to see you.";"";0;0
+4;1;1;"Greetings!";"";0;0
+5;1;1;"Salutations!";"";0;0
+6;1;1;"Nice to meet you!";"";0;0
+7;1;1;"Hiya!";"";0;0
+8;1;1;"Top of the morning to you!";"";0;0
+9;1;1;"Bonjour!";"";0;0
+10;1;1;"Welcome!";"";0;0
+11;1;1;"Good to see you again!";"";0;0
+12;1;1;"Hola!";"";0;0
+13;1;1;"Namaste!";"";0;0
+14;1;1;"Aloha!";"";0;0
+15;1;1;"Hey, great to have you here!";"";0;0
+16;1;1;"Hey, glad you could make it!";"";0;0
+17;1;1;"Howdy, partner!";"";0;0
+18;1;1;"Hi, it's good to be in your company.";"";0;0
+19;1;1;"Good day!";"";0;0
+20;1;1;"Hey, thanks for being here!";"";0;0
+21;1;1;"It's a pleasure to see you.";"";0;0
+22;1;1;"Hey, good to see a friendly face!";"";0;0
+23;1;1;"Hi, I hope you're having a good day.";"";0;0
+24;1;1;"Hey, good to see you're doing well!";"";0;0
+25;1;1;"Hi, hope you're doing fine.";"";0;0
+26;2;1;"Hi there!";"";0;0
+27;2;1;"Hello, good to see you.";"";0;0
+28;2;1;"Greetings!";"";0;0
+29;2;1;"Salutations!";"";0;0
+30;2;1;"Nice to meet you!";"";0;0
+31;2;1;"Hiya!";"";0;0
+32;2;1;"Top of the morning to you!";"";0;0
+33;2;1;"Bonjour!";"";0;0
+34;2;1;"Welcome!";"";0;0
+35;2;1;"Good to see you again!";"";0;0
+36;2;1;"Hola!";"";0;0
+37;2;1;"Namaste!";"";0;0
+38;2;1;"Aloha!";"";0;0
+39;2;1;"Hey, great to have you here!";"";0;0
+40;2;1;"Hey, glad you could make it!";"";0;0
+41;2;1;"Howdy, partner!";"";0;0
+42;2;1;"Hi, it's good to be in your company.";"";0;0
+43;2;1;"Good day!";"";0;0
+44;2;1;"Hey, thanks for being here!";"";0;0
+45;2;1;"It's a pleasure to see you.";"";0;0
+46;2;1;"Hey, good to see a friendly face!";"";0;0
+47;2;1;"Hi, I hope you're having a good day.";"";0;0
+48;2;1;"Hey, good to see you're doing well!";"";0;0
+49;2;1;"Hi, hope you're doing fine.";"";0;0
+50;3;1;"Hi there!";"";0;0
+51;3;1;"Hello, good to see you.";"";0;0
+53;3;1;"Greetings!";"";0;0
+54;3;1;"Salutations!";"";0;0
+55;3;1;"Nice to meet you!";"";0;0
+56;3;1;"Hiya!";"";0;0
+57;3;1;"Top of the morning to you!";"";0;0
+58;3;1;"Bonjour!";"";0;0
+59;3;1;"Welcome!";"";0;0
+60;3;1;"Good to see you again!";"";0;0
+61;3;1;"Hola!";"";0;0
+62;3;1;"Namaste!";"";0;0
+63;3;1;"Aloha!";"";0;0
+64;3;1;"Hey, great to have you here!";"";0;0
+65;3;1;"Hey, glad you could make it!";"";0;0
+66;3;1;"Howdy, partner!";"";0;0
+67;3;1;"Hi, it's good to be in your company.";"";0;0
+68;3;1;"Good day!";"";0;0
+69;3;1;"Hey, thanks for being here!";"";0;0
+70;3;1;"It's a pleasure to see you.";"";0;0
+71;3;1;"Hey, good to see a friendly face!";"";0;0
+72;3;1;"Hi, I hope you're having a good day.";"";0;0
+73;3;1;"Hey, good to see you're doing well!";"";0;0
+74;3;1;"Hi, hope you're doing fine.";"";0;0
+75;4;1;"Hi there!";"";0;0
+76;4;1;"Hello, good to see you.";"";0;0
+77;4;1;"Greetings!";"";0;0
+78;4;1;"Salutations!";"";0;0
+79;4;1;"Nice to meet you!";"";0;0
+80;4;1;"Hiya!";"";0;0
+81;4;1;"Top of the morning to you!";"";0;0
+82;4;1;"Bonjour!";"";0;0
+83;4;1;"Welcome!";"";0;0
+84;4;1;"Good to see you again!";"";0;0
+85;4;1;"Hola!";"";0;0
+86;4;1;"Namaste!";"";0;0
+87;4;1;"Aloha!";"";0;0
+88;4;1;"Hey, great to have you here!";"";0;0
+89;4;1;"Hey, glad you could make it!";"";0;0
+90;4;1;"Howdy, partner!";"";0;0
+91;4;1;"Hi, it's good to be in your company.";"";0;0
+92;4;1;"Good day!";"";0;0
+93;4;1;"Hey, thanks for being here!";"";0;0
+94;4;1;"It's a pleasure to see you.";"";0;0
+95;4;1;"Hey, good to see a friendly face!";"";0;0
+96;4;1;"Hi, I hope you're having a good day.";"";0;0
+97;4;1;"Hey, good to see you're doing well!";"";0;0
+98;4;1;"Hi, hope you're doing fine.";"";0;0
+99;5;1;"Hi there!";"";0;0
+100;5;1;"Hello, good to see you.";"";0;0
+101;5;1;"Greetings!";"";0;0
+102;5;1;"Salutations!";"";0;0
+103;5;1;"Nice to meet you!";"";0;0
+104;5;1;"Hiya!";"";0;0
+105;5;1;"Top of the morning to you!";"";0;0
+106;5;1;"Bonjour!";"";0;0
+107;5;1;"Welcome!";"";0;0
+108;5;1;"Good to see you again!";"";0;0
+109;5;1;"Hola!";"";0;0
+110;5;1;"Namaste!";"";0;0
+111;5;1;"Aloha!";"";0;0
+112;5;1;"Hey, great to have you here!";"";0;0
+113;5;1;"Hey, glad you could make it!";"";0;0
+114;5;1;"Howdy, partner!";"";0;0
+115;5;1;"Hi, it's good to be in your company.";"";0;0
+116;5;1;"Good day!";"";0;0
+117;5;1;"Hey, thanks for being here!";"";0;0
+118;5;1;"It's a pleasure to see you.";"";0;0
+119;5;1;"Hey, good to see a friendly face!";"";0;0
+120;5;1;"Hi, I hope you're having a good day.";"";0;0
+121;5;1;"Hey, good to see you're doing well!";"";0;0
+122;5;1;"Hi, hope you're doing fine.";"";0;0
+123;6;1;"Hi there!";"";0;0
+124;6;1;"Hello, good to see you.";"";0;0
+125;6;1;"Greetings!";"";0;0
+126;6;1;"Salutations!";"";0;0
+127;6;1;"Nice to meet you!";"";0;0
+128;6;1;"Hiya!";"";0;0
+129;6;1;"Top of the morning to you!";"";0;0
+130;6;1;"Bonjour!";"";0;0
+131;6;1;"Welcome!";"";0;0
+132;6;1;"Good to see you again!";"";0;0
+133;6;1;"Hola!";"";0;0
+134;6;1;"Namaste!";"";0;0
+135;6;1;"Aloha!";"";0;0
+136;6;1;"Hey, great to have you here!";"";0;0
+137;6;1;"Hey, glad you could make it!";"";0;0
+138;6;1;"Howdy, partner!";"";0;0
+139;6;1;"Hi, it's good to be in your company.";"";0;0
+140;6;1;"Good day!";"";0;0
+141;6;1;"Hey, thanks for being here!";"";0;0
+142;6;1;"It's a pleasure to see you.";"";0;0
+143;6;1;"Hey, good to see a friendly face!";"";0;0
+144;6;1;"Hi, I hope you're having a good day.";"";0;0
+145;6;1;"Hey, good to see you're doing well!";"";0;0
+146;6;1;"Hi, hope you're doing fine.";"";0;0
+147;7;1;"Hi there!";"";0;0
+148;7;1;"Hello, good to see you.";"";0;0
+149;7;1;"Greetings!";"";0;0
+150;7;1;"Salutations!";"";0;0
+151;7;1;"Nice to meet you!";"";0;0
+152;7;1;"Hiya!";"";0;0
+153;7;1;"Top of the morning to you!";"";0;0
+154;7;1;"Bonjour!";"";0;0
+155;7;1;"Welcome!";"";0;0
+156;7;1;"Good to see you again!";"";0;0
+157;7;1;"Hola!";"";0;0
+158;7;1;"Namaste!";"";0;0
+159;7;1;"Aloha!";"";0;0
+160;7;1;"Hey, great to have you here!";"";0;0
+161;7;1;"Hey, glad you could make it!";"";0;0
+162;7;1;"Howdy, partner!";"";0;0
+163;7;1;"Hi, it's good to be in your company.";"";0;0
+164;7;1;"Good day!";"";0;0
+165;7;1;"Hey, thanks for being here!";"";0;0
+166;7;1;"It's a pleasure to see you.";"";0;0
+167;7;1;"Hey, good to see a friendly face!";"";0;0
+168;7;1;"Hi, I hope you're having a good day.";"";0;0
+169;7;1;"Hey, good to see you're doing well!";"";0;0
+170;7;1;"Hi, hope you're doing fine.";"";0;0
+171;8;1;"Hi there!";"";0;0
+172;8;1;"Hello, good to see you.";"";0;0
+173;8;1;"Greetings!";"";0;0
+174;8;1;"Salutations!";"";0;0
+175;8;1;"Nice to meet you!";"";0;0
+176;8;1;"Hiya!";"";0;0
+177;8;1;"Top of the morning to you!";"";0;0
+178;8;1;"Bonjour!";"";0;0
+179;8;1;"Welcome!";"";0;0
+180;8;1;"Good to see you again!";"";0;0
+181;8;1;"Hola!";"";0;0
+182;8;1;"Namaste!";"";0;0
+183;8;1;"Aloha!";"";0;0
+184;8;1;"Hey, great to have you here!";"";0;0
+185;8;1;"Hey, glad you could make it!";"";0;0
+186;8;1;"Howdy, partner!";"";0;0
+187;8;1;"Hi, it's good to be in your company.";"";0;0
+188;8;1;"Good day!";"";0;0
+189;8;1;"Hey, thanks for being here!";"";0;0
+190;8;1;"It's a pleasure to see you.";"";0;0
+191;8;1;"Hey, good to see a friendly face!";"";0;0
+192;8;1;"Hi, I hope you're having a good day.";"";0;0
+193;8;1;"Hey, good to see you're doing well!";"";0;0
+194;8;1;"Hi, hope you're doing fine.";"";0;0
+195;9;1;"Hi there!";"";0;0
+196;9;1;"Hello, good to see you.";"";0;0
+197;9;1;"Greetings!";"";0;0
+198;9;1;"Salutations!";"";0;0
+199;9;1;"Nice to meet you!";"";0;0
+200;9;1;"Hiya!";"";0;0
+201;9;1;"Top of the morning to you!";"";0;0
+202;9;1;"Bonjour!";"";0;0
+203;9;1;"Welcome!";"";0;0
+204;9;1;"Good to see you again!";"";0;0
+205;9;1;"Hola!";"";0;0
+206;9;1;"Namaste!";"";0;0
+207;9;1;"Aloha!";"";0;0
+208;9;1;"Hey, great to have you here!";"";0;0
+209;9;1;"Hey, glad you could make it!";"";0;0
+210;9;1;"Howdy, partner!";"";0;0
+211;9;1;"Hi, it's good to be in your company.";"";0;0
+212;9;1;"Good day!";"";0;0
+213;9;1;"Hey, thanks for being here!";"";0;0
+214;9;1;"It's a pleasure to see you.";"";0;0
+215;9;1;"Hey, good to see a friendly face!";"";0;0
+216;9;1;"Hi, I hope you're having a good day.";"";0;0
+217;9;1;"Hey, good to see you're doing well!";"";0;0
+218;9;1;"Hi, hope you're doing fine.";"";0;0
+219;10;1;"Hi there!";"";0;0
+220;10;1;"Hello, good to see you.";"";0;0
+221;10;1;"Greetings!";"";0;0
+222;10;1;"Salutations!";"";0;0
+223;10;1;"Nice to meet you!";"";0;0
+224;10;1;"Hiya!";"";0;0
+225;10;1;"Top of the morning to you!";"";0;0
+226;10;1;"Bonjour!";"";0;0
+227;10;1;"Welcome!";"";0;0
+228;10;1;"Good to see you again!";"";0;0
+229;10;1;"Hola!";"";0;0
+230;10;1;"Namaste!";"";0;0
+231;10;1;"Aloha!";"";0;0
+232;10;1;"Hey, great to have you here!";"";0;0
+233;10;1;"Hey, glad you could make it!";"";0;0
+234;10;1;"Howdy, partner!";"";0;0
+235;10;1;"Hi, it's good to be in your company.";"";0;0
+236;10;1;"Good day!";"";0;0
+237;10;1;"Hey, thanks for being here!";"";0;0
+238;10;1;"It's a pleasure to see you.";"";0;0
+239;10;1;"Hey, good to see a friendly face!";"";0;0
+240;10;1;"Hi, I hope you're having a good day.";"";0;0
+241;10;1;"Hey, good to see you're doing well!";"";0;0
+242;10;1;"Hi, hope you're doing fine.";"";0;0
+243;11;1;"Hi there!";"";0;0
+244;11;1;"Hello, good to see you.";"";0;0
+245;11;1;"Greetings!";"";0;0
+246;11;1;"Salutations!";"";0;0
+247;11;1;"Nice to meet you!";"";0;0
+248;11;1;"Hiya!";"";0;0
+249;11;1;"Top of the morning to you!";"";0;0
+250;11;1;"Bonjour!";"";0;0
+251;11;1;"Welcome!";"";0;0
+252;11;1;"Good to see you again!";"";0;0
+253;11;1;"Hola!";"";0;0
+254;11;1;"Namaste!";"";0;0
+255;11;1;"Aloha!";"";0;0
+256;11;1;"Hey, great to have you here!";"";0;0
+257;11;1;"Hey, glad you could make it!";"";0;0
+258;11;1;"Howdy, partner!";"";0;0
+259;11;1;"Hi, it's good to be in your company.";"";0;0
+260;11;1;"Good day!";"";0;0
+261;11;1;"Hey, thanks for being here!";"";0;0
+262;11;1;"It's a pleasure to see you.";"";0;0
+263;11;1;"Hey, good to see a friendly face!";"";0;0
+264;11;1;"Hi, I hope you're having a good day.";"";0;0
+265;11;1;"Hey, good to see you're doing well!";"";0;0
+266;11;1;"Hi, hope you're doing fine.";"";0;0
+267;12;1;"Hi there!";"";0;0
+268;12;1;"Hello, good to see you.";"";0;0
+269;12;1;"Greetings!";"";0;0
+270;12;1;"Salutations!";"";0;0
+271;12;1;"Nice to meet you!";"";0;0
+272;12;1;"Hiya!";"";0;0
+273;12;1;"Top of the morning to you!";"";0;0
+274;12;1;"Bonjour!";"";0;0
+275;12;1;"Welcome!";"";0;0
+276;12;1;"Good to see you again!";"";0;0
+277;12;1;"Hola!";"";0;0
+278;12;1;"Namaste!";"";0;0
+279;12;1;"Aloha!";"";0;0
+280;12;1;"Hey, great to have you here!";"";0;0
+281;12;1;"Hey, glad you could make it!";"";0;0
+282;12;1;"Howdy, partner!";"";0;0
+283;12;1;"Hi, it's good to be in your company.";"";0;0
+284;12;1;"Good day!";"";0;0
+285;12;1;"Hey, thanks for being here!";"";0;0
+286;12;1;"It's a pleasure to see you.";"";0;0
+287;12;1;"Hey, good to see a friendly face!";"";0;0
+288;12;1;"Hi, I hope you're having a good day.";"";0;0
+289;12;1;"Hey, good to see you're doing well!";"";0;0
+290;12;1;"Hi, hope you're doing fine.";"";0;0
+291;13;1;"Hi there!";"";0;0
+292;13;1;"Hello, good to see you.";"";0;0
+293;13;1;"Greetings!";"";0;0
+294;13;1;"Salutations!";"";0;0
+295;13;1;"Nice to meet you!";"";0;0
+296;13;1;"Hiya!";"";0;0
+297;13;1;"Top of the morning to you!";"";0;0
+298;13;1;"Bonjour!";"";0;0
+299;13;1;"Welcome!";"";0;0
+300;13;1;"Good to see you again!";"";0;0
+301;13;1;"Hola!";"";0;0
+302;13;1;"Namaste!";"";0;0
+303;13;1;"Aloha!";"";0;0
+304;13;1;"Hey, great to have you here!";"";0;0
+305;13;1;"Hey, glad you could make it!";"";0;0
+306;13;1;"Howdy, partner!";"";0;0
+307;13;1;"Hi, it's good to be in your company.";"";0;0
+308;13;1;"Good day!";"";0;0
+309;13;1;"Hey, thanks for being here!";"";0;0
+310;13;1;"It's a pleasure to see you.";"";0;0
+311;13;1;"Hey, good to see a friendly face!";"";0;0
+312;13;1;"Hi, I hope you're having a good day.";"";0;0
+313;13;1;"Hey, good to see you're doing well!";"";0;0
+314;13;1;"Hi, hope you're doing fine.";"";0;0
+315;14;1;"Hi there!";"";0;0
+316;14;1;"Hello, good to see you.";"";0;0
+317;14;1;"Greetings!";"";0;0
+318;14;1;"Salutations!";"";0;0
+319;14;1;"Nice to meet you!";"";0;0
+320;14;1;"Hiya!";"";0;0
+321;14;1;"Top of the morning to you!";"";0;0
+322;14;1;"Bonjour!";"";0;0
+323;14;1;"Welcome!";"";0;0
+324;14;1;"Good to see you again!";"";0;0
+325;14;1;"Hola!";"";0;0
+326;14;1;"Namaste!";"";0;0
+327;14;1;"Aloha!";"";0;0
+328;14;1;"Hey, great to have you here!";"";0;0
+329;14;1;"Hey, glad you could make it!";"";0;0
+330;14;1;"Howdy, partner!";"";0;0
+331;14;1;"Hi, it's good to be in your company.";"";0;0
+332;14;1;"Good day!";"";0;0
+333;14;1;"Hey, thanks for being here!";"";0;0
+334;14;1;"It's a pleasure to see you.";"";0;0
+335;14;1;"Hey, good to see a friendly face!";"";0;0
+336;14;1;"Hi, I hope you're having a good day.";"";0;0
+337;14;1;"Hey, good to see you're doing well!";"";0;0
+338;14;1;"Hi, hope you're doing fine.";"";0;0
+339;15;1;"Hi there!";"";0;0
+340;15;1;"Hello, good to see you.";"";0;0
+341;15;1;"Greetings!";"";0;0
+342;15;1;"Salutations!";"";0;0
+343;15;1;"Nice to meet you!";"";0;0
+344;15;1;"Hiya!";"";0;0
+345;15;1;"Top of the morning to you!";"";0;0
+346;15;1;"Bonjour!";"";0;0
+347;15;1;"Welcome!";"";0;0
+348;15;1;"Good to see you again!";"";0;0
+349;15;1;"Hola!";"";0;0
+350;15;1;"Namaste!";"";0;0
+351;15;1;"Aloha!";"";0;0
+352;15;1;"Hey, great to have you here!";"";0;0
+353;15;1;"Hey, glad you could make it!";"";0;0
+354;15;1;"Howdy, partner!";"";0;0
+355;15;1;"Hi, it's good to be in your company.";"";0;0
+356;15;1;"Good day!";"";0;0
+357;15;1;"Hey, thanks for being here!";"";0;0
+358;15;1;"It's a pleasure to see you.";"";0;0
+359;15;1;"Hey, good to see a friendly face!";"";0;0
+360;15;1;"Hi, I hope you're having a good day.";"";0;0
+361;15;1;"Hey, good to see you're doing well!";"";0;0
+362;15;1;"Hi, hope you're doing fine.";"";0;0
+363;16;1;"Hi there!";"";0;0
+364;16;1;"Hello, good to see you.";"";0;0
+365;16;1;"Greetings!";"";0;0
+366;16;1;"Salutations!";"";0;0
+367;16;1;"Nice to meet you!";"";0;0
+368;16;1;"Hiya!";"";0;0
+369;16;1;"Top of the morning to you!";"";0;0
+370;16;1;"Bonjour!";"";0;0
+371;16;1;"Welcome!";"";0;0
+372;16;1;"Good to see you again!";"";0;0
+373;16;1;"Hola!";"";0;0
+374;16;1;"Namaste!";"";0;0
+375;16;1;"Aloha!";"";0;0
+376;16;1;"Hey, great to have you here!";"";0;0
+377;16;1;"Hey, glad you could make it!";"";0;0
+378;16;1;"Howdy, partner!";"";0;0
+379;16;1;"Hi, it's good to be in your company.";"";0;0
+380;16;1;"Good day!";"";0;0
+381;16;1;"Hey, thanks for being here!";"";0;0
+382;16;1;"It's a pleasure to see you.";"";0;0
+383;16;1;"Hey, good to see a friendly face!";"";0;0
+384;16;1;"Hi, I hope you're having a good day.";"";0;0
+385;16;1;"Hey, good to see you're doing well!";"";0;0
+386;16;1;"Hi, hope you're doing fine.";"";0;0
+387;17;1;"Hi there!";"";0;0
+388;17;1;"Hello, good to see you.";"";0;0
+389;17;1;"Greetings!";"";0;0
+390;17;1;"Salutations!";"";0;0
+391;17;1;"Nice to meet you!";"";0;0
+392;17;1;"Hiya!";"";0;0
+393;17;1;"Top of the morning to you!";"";0;0
+394;17;1;"Bonjour!";"";0;0
+395;17;1;"Welcome!";"";0;0
+396;17;1;"Good to see you again!";"";0;0
+397;17;1;"Hola!";"";0;0
+398;17;1;"Namaste!";"";0;0
+399;17;1;"Aloha!";"";0;0
+400;17;1;"Hey, great to have you here!";"";0;0
+401;17;1;"Hey, glad you could make it!";"";0;0
+402;17;1;"Howdy, partner!";"";0;0
+403;17;1;"Hi, it's good to be in your company.";"";0;0
+404;17;1;"Good day!";"";0;0
+405;17;1;"Hey, thanks for being here!";"";0;0
+406;17;1;"It's a pleasure to see you.";"";0;0
+407;17;1;"Hey, good to see a friendly face!";"";0;0
+408;17;1;"Hi, I hope you're having a good day.";"";0;0
+409;17;1;"Hey, good to see you're doing well!";"";0;0
+410;17;1;"Hi, hope you're doing fine.";"";0;0
+411;18;1;"Hi there!";"";0;0
+412;18;1;"Hello, good to see you.";"";0;0
+413;18;1;"Greetings!";"";0;0
+414;18;1;"Salutations!";"";0;0
+415;18;1;"Nice to meet you!";"";0;0
+416;18;1;"Hiya!";"";0;0
+417;18;1;"Top of the morning to you!";"";0;0
+418;18;1;"Bonjour!";"";0;0
+419;18;1;"Welcome!";"";0;0
+420;18;1;"Good to see you again!";"";0;0
+421;18;1;"Hola!";"";0;0
+422;18;1;"Namaste!";"";0;0
+423;18;1;"Aloha!";"";0;0
+424;18;1;"Hey, great to have you here!";"";0;0
+425;18;1;"Hey, glad you could make it!";"";0;0
+426;18;1;"Howdy, partner!";"";0;0
+427;18;1;"Hi, it's good to be in your company.";"";0;0
+428;18;1;"Good day!";"";0;0
+429;18;1;"Hey, thanks for being here!";"";0;0
+430;18;1;"It's a pleasure to see you.";"";0;0
+431;18;1;"Hey, good to see a friendly face!";"";0;0
+432;18;1;"Hi, I hope you're having a good day.";"";0;0
+433;18;1;"Hey, good to see you're doing well!";"";0;0
+434;18;1;"Hi, hope you're doing fine.";"";0;0
+435;19;1;"Hi there!";"";0;0
+436;19;1;"Hello, good to see you.";"";0;0
+437;19;1;"Greetings!";"";0;0
+438;19;1;"Salutations!";"";0;0
+439;19;1;"Nice to meet you!";"";0;0
+440;19;1;"Hiya!";"";0;0
+441;19;1;"Top of the morning to you!";"";0;0
+442;19;1;"Bonjour!";"";0;0
+443;19;1;"Welcome!";"";0;0
+444;19;1;"Good to see you again!";"";0;0
+445;19;1;"Hola!";"";0;0
+446;19;1;"Namaste!";"";0;0
+447;19;1;"Aloha!";"";0;0
+448;19;1;"Hey, great to have you here!";"";0;0
+449;19;1;"Hey, glad you could make it!";"";0;0
+450;19;1;"Howdy, partner!";"";0;0
+451;19;1;"Hi, it's good to be in your company.";"";0;0
+452;19;1;"Good day!";"";0;0
+453;19;1;"Hey, thanks for being here!";"";0;0
+454;19;1;"It's a pleasure to see you.";"";0;0
+455;19;1;"Hey, good to see a friendly face!";"";0;0
+456;19;1;"Hi, I hope you're having a good day.";"";0;0
+457;19;1;"Hey, good to see you're doing well!";"";0;0
+458;19;1;"Hi, hope you're doing fine.";"";0;0
+459;20;1;"Hi there!";"";0;0
+460;20;1;"Hello, good to see you.";"";0;0
+461;20;1;"Greetings!";"";0;0
+462;20;1;"Salutations!";"";0;0
+463;20;1;"Nice to meet you!";"";0;0
+464;20;1;"Hiya!";"";0;0
+465;20;1;"Top of the morning to you!";"";0;0
+466;20;1;"Bonjour!";"";0;0
+467;20;1;"Welcome!";"";0;0
+468;20;1;"Good to see you again!";"";0;0
+469;20;1;"Hola!";"";0;0
+470;20;1;"Namaste!";"";0;0
+471;20;1;"Aloha!";"";0;0
+472;20;1;"Hey, great to have you here!";"";0;0
+473;20;1;"Hey, glad you could make it!";"";0;0
+474;20;1;"Howdy, partner!";"";0;0
+475;20;1;"Hi, it's good to be in your company.";"";0;0
+476;20;1;"Good day!";"";0;0
+477;20;1;"Hey, thanks for being here!";"";0;0
+478;20;1;"It's a pleasure to see you.";"";0;0
+479;20;1;"Hey, good to see a friendly face!";"";0;0
+480;20;1;"Hi, I hope you're having a good day.";"";0;0
+481;20;1;"Hey, good to see you're doing well!";"";0;0
+482;20;1;"Hi, hope you're doing fine.";"";0;0
+483;21;1;"Hi there!";"";0;0
+484;21;1;"Hello, good to see you.";"";0;0
+485;21;1;"Greetings!";"";0;0
+486;21;1;"Salutations!";"";0;0
+487;21;1;"Nice to meet you!";"";0;0
+488;21;1;"Hiya!";"";0;0
+489;21;1;"Top of the morning to you!";"";0;0
+490;21;1;"Bonjour!";"";0;0
+491;21;1;"Welcome!";"";0;0
+492;21;1;"Good to see you again!";"";0;0
+493;21;1;"Hola!";"";0;0
+494;21;1;"Namaste!";"";0;0
+495;21;1;"Aloha!";"";0;0
+496;21;1;"Hey, great to have you here!";"";0;0
+497;21;1;"Hey, glad you could make it!";"";0;0
+498;21;1;"Howdy, partner!";"";0;0
+499;21;1;"Hi, it's good to be in your company.";"";0;0
+500;21;1;"Good day!";"";0;0
+501;21;1;"Hey, thanks for being here!";"";0;0
+502;21;1;"It's a pleasure to see you.";"";0;0
+503;21;1;"Hey, good to see a friendly face!";"";0;0
+504;21;1;"Hi, I hope you're having a good day.";"";0;0
+505;21;1;"Hey, good to see you're doing well!";"";0;0
+506;21;1;"Hi, hope you're doing fine.";"";0;0
+507;22;1;"Hi there!";"";0;0
+508;22;1;"Hello, good to see you.";"";0;0
+509;22;1;"Greetings!";"";0;0
+510;22;1;"Salutations!";"";0;0
+511;22;1;"Nice to meet you!";"";0;0
+512;22;1;"Hiya!";"";0;0
+513;22;1;"Top of the morning to you!";"";0;0
+514;22;1;"Bonjour!";"";0;0
+515;22;1;"Welcome!";"";0;0
+516;22;1;"Good to see you again!";"";0;0
+517;22;1;"Hola!";"";0;0
+518;22;1;"Namaste!";"";0;0
+519;22;1;"Aloha!";"";0;0
+520;22;1;"Hey, great to have you here!";"";0;0
+521;22;1;"Hey, glad you could make it!";"";0;0
+522;22;1;"Howdy, partner!";"";0;0
+523;22;1;"Hi, it's good to be in your company.";"";0;0
+524;22;1;"Good day!";"";0;0
+525;22;1;"Hey, thanks for being here!";"";0;0
+526;22;1;"It's a pleasure to see you.";"";0;0
+527;22;1;"Hey, good to see a friendly face!";"";0;0
+528;22;1;"Hi, I hope you're having a good day.";"";0;0
+529;22;1;"Hey, good to see you're doing well!";"";0;0
+530;22;1;"Hi, hope you're doing fine.";"";0;0
+531;23;1;"Hi there!";"";0;0
+532;23;1;"Hello, good to see you.";"";0;0
+533;23;1;"Greetings!";"";0;0
+534;23;1;"Salutations!";"";0;0
+535;23;1;"Nice to meet you!";"";0;0
+536;23;1;"Hiya!";"";0;0
+537;23;1;"Top of the morning to you!";"";0;0
+538;23;1;"Bonjour!";"";0;0
+539;23;1;"Welcome!";"";0;0
+540;23;1;"Good to see you again!";"";0;0
+541;23;1;"Hola!";"";0;0
+542;23;1;"Namaste!";"";0;0
+543;23;1;"Aloha!";"";0;0
+544;23;1;"Hey, great to have you here!";"";0;0
+545;23;1;"Hey, glad you could make it!";"";0;0
+546;23;1;"Howdy, partner!";"";0;0
+547;23;1;"Hi, it's good to be in your company.";"";0;0
+548;23;1;"Good day!";"";0;0
+549;23;1;"Hey, thanks for being here!";"";0;0
+550;23;1;"It's a pleasure to see you.";"";0;0
+551;23;1;"Hey, good to see a friendly face!";"";0;0
+552;23;1;"Hi, I hope you're having a good day.";"";0;0
+553;23;1;"Hey, good to see you're doing well!";"";0;0
+554;23;1;"Hi, hope you're doing fine.";"";0;0
+555;24;1;"Hi there!";"";0;0
+556;24;1;"Hello, good to see you.";"";0;0
+557;24;1;"Greetings!";"";0;0
+558;24;1;"Salutations!";"";0;0
+559;24;1;"Nice to meet you!";"";0;0
+560;24;1;"Hiya!";"";0;0
+561;24;1;"Top of the morning to you!";"";0;0
+562;24;1;"Bonjour!";"";0;0
+563;24;1;"Welcome!";"";0;0
+564;24;1;"Good to see you again!";"";0;0
+565;24;1;"Hola!";"";0;0
+566;24;1;"Namaste!";"";0;0
+567;24;1;"Aloha!";"";0;0
+568;24;1;"Hey, great to have you here!";"";0;0
+569;24;1;"Hey, glad you could make it!";"";0;0
+570;24;1;"Howdy, partner!";"";0;0
+571;24;1;"Hi, it's good to be in your company.";"";0;0
+572;24;1;"Good day!";"";0;0
+573;24;1;"Hey, thanks for being here!";"";0;0
+574;24;1;"It's a pleasure to see you.";"";0;0
+575;24;1;"Hey, good to see a friendly face!";"";0;0
+576;24;1;"Hi, I hope you're having a good day.";"";0;0
+577;24;1;"Hey, good to see you're doing well!";"";0;0
+578;24;1;"Hi, hope you're doing fine.";"";0;0
+579;25;1;"Hi there!";"";0;0
+580;25;1;"Hello, good to see you.";"";0;0
+581;25;1;"Greetings!";"";0;0
+582;25;1;"Salutations!";"";0;0
+583;25;1;"Nice to meet you!";"";0;0
+584;25;1;"Hiya!";"";0;0
+585;25;1;"Top of the morning to you!";"";0;0
+586;25;1;"Bonjour!";"";0;0
+587;25;1;"Welcome!";"";0;0
+588;25;1;"Good to see you again!";"";0;0
+589;25;1;"Hola!";"";0;0
+590;25;1;"Namaste!";"";0;0
+591;25;1;"Aloha!";"";0;0
+592;25;1;"Hey, great to have you here!";"";0;0
+593;25;1;"Hey, glad you could make it!";"";0;0
+594;25;1;"Howdy, partner!";"";0;0
+595;25;1;"Hi, it's good to be in your company.";"";0;0
+596;25;1;"Good day!";"";0;0
+597;25;1;"Hey, thanks for being here!";"";0;0
+598;25;1;"It's a pleasure to see you.";"";0;0
+599;25;1;"Hey, good to see a friendly face!";"";0;0
+600;25;1;"Hi, I hope you're having a good day.";"";0;0
+601;25;1;"Hey, good to see you're doing well!";"";0;0
+602;25;1;"Hi, hope you're doing fine.";"";0;0
+603;26;1;"Hi there!";"";0;0
+604;26;1;"Hello, good to see you.";"";0;0
+605;26;1;"Greetings!";"";0;0
+606;26;1;"Salutations!";"";0;0
+607;26;1;"Nice to meet you!";"";0;0
+608;26;1;"Hiya!";"";0;0
+609;26;1;"Top of the morning to you!";"";0;0
+610;26;1;"Bonjour!";"";0;0
+611;26;1;"Welcome!";"";0;0
+612;26;1;"Good to see you again!";"";0;0
+613;26;1;"Hola!";"";0;0
+614;26;1;"Namaste!";"";0;0
+615;26;1;"Aloha!";"";0;0
+616;26;1;"Hey, great to have you here!";"";0;0
+617;26;1;"Hey, glad you could make it!";"";0;0
+618;26;1;"Howdy, partner!";"";0;0
+619;26;1;"Hi, it's good to be in your company.";"";0;0
+620;26;1;"Good day!";"";0;0
+621;26;1;"Hey, thanks for being here!";"";0;0
+622;26;1;"It's a pleasure to see you.";"";0;0
+623;26;1;"Hey, good to see a friendly face!";"";0;0
+624;26;1;"Hi, I hope you're having a good day.";"";0;0
+625;26;1;"Hey, good to see you're doing well!";"";0;0
+626;26;1;"Hi, hope you're doing fine.";"";0;0
+627;27;1;"Hi there!";"";0;0
+628;27;1;"Hello, good to see you.";"";0;0
+629;27;1;"Greetings!";"";0;0
+630;27;1;"Salutations!";"";0;0
+631;27;1;"Nice to meet you!";"";0;0
+632;27;1;"Hiya!";"";0;0
+633;27;1;"Top of the morning to you!";"";0;0
+634;27;1;"Bonjour!";"";0;0
+635;27;1;"Welcome!";"";0;0
+636;27;1;"Good to see you again!";"";0;0
+637;27;1;"Hola!";"";0;0
+638;27;1;"Namaste!";"";0;0
+639;27;1;"Aloha!";"";0;0
+640;27;1;"Hey, great to have you here!";"";0;0
+641;27;1;"Hey, glad you could make it!";"";0;0
+642;27;1;"Howdy, partner!";"";0;0
+643;27;1;"Hi, it's good to be in your company.";"";0;0
+644;27;1;"Good day!";"";0;0
+645;27;1;"Hey, thanks for being here!";"";0;0
+646;27;1;"It's a pleasure to see you.";"";0;0
+647;27;1;"Hey, good to see a friendly face!";"";0;0
+648;27;1;"Hi, I hope you're having a good day.";"";0;0
+649;27;1;"Hey, good to see you're doing well!";"";0;0
+650;27;1;"Hi, hope you're doing fine.";"";0;0
+651;28;1;"Hi there!";"";0;0
+652;28;1;"Hello, good to see you.";"";0;0
+653;28;1;"Greetings!";"";0;0
+654;28;1;"Salutations!";"";0;0
+655;28;1;"Nice to meet you!";"";0;0
+656;28;1;"Hiya!";"";0;0
+657;28;1;"Top of the morning to you!";"";0;0
+658;28;1;"Bonjour!";"";0;0
+659;28;1;"Welcome!";"";0;0
+660;28;1;"Good to see you again!";"";0;0
+661;28;1;"Hola!";"";0;0
+662;28;1;"Namaste!";"";0;0
+663;28;1;"Aloha!";"";0;0
+664;28;1;"Hey, great to have you here!";"";0;0
+665;28;1;"Hey, glad you could make it!";"";0;0
+666;28;1;"Howdy, partner!";"";0;0
+667;28;1;"Hi, it's good to be in your company.";"";0;0
+668;28;1;"Good day!";"";0;0
+669;28;1;"Hey, thanks for being here!";"";0;0
+670;28;1;"It's a pleasure to see you.";"";0;0
+671;28;1;"Hey, good to see a friendly face!";"";0;0
+672;28;1;"Hi, I hope you're having a good day.";"";0;0
+673;28;1;"Hey, good to see you're doing well!";"";0;0
+674;28;1;"Hi, hope you're doing fine.";"";0;0
+675;29;1;"Hi there!";"";0;0
+676;29;1;"Hello, good to see you.";"";0;0
+677;29;1;"Greetings!";"";0;0
+678;29;1;"Salutations!";"";0;0
+679;29;1;"Nice to meet you!";"";0;0
+680;29;1;"Hiya!";"";0;0
+681;29;1;"Top of the morning to you!";"";0;0
+682;29;1;"Bonjour!";"";0;0
+683;29;1;"Welcome!";"";0;0
+684;29;1;"Good to see you again!";"";0;0
+685;29;1;"Hola!";"";0;0
+686;29;1;"Namaste!";"";0;0
+687;29;1;"Aloha!";"";0;0
+688;29;1;"Hey, great to have you here!";"";0;0
+689;29;1;"Hey, glad you could make it!";"";0;0
+690;29;1;"Howdy, partner!";"";0;0
+691;29;1;"Hi, it's good to be in your company.";"";0;0
+692;29;1;"Good day!";"";0;0
+693;29;1;"Hey, thanks for being here!";"";0;0
+694;29;1;"It's a pleasure to see you.";"";0;0
+695;29;1;"Hey, good to see a friendly face!";"";0;0
+696;29;1;"Hi, I hope you're having a good day.";"";0;0
+697;29;1;"Hey, good to see you're doing well!";"";0;0
+698;29;1;"Hi, hope you're doing fine.";"";0;0
+699;30;1;"Hi there!";"";0;0
+700;30;1;"Hello, good to see you.";"";0;0
+701;30;1;"Greetings!";"";0;0
+702;30;1;"Salutations!";"";0;0
+703;30;1;"Nice to meet you!";"";0;0
+704;30;1;"Hiya!";"";0;0
+705;30;1;"Top of the morning to you!";"";0;0
+706;30;1;"Bonjour!";"";0;0
+707;30;1;"Welcome!";"";0;0
+708;30;1;"Good to see you again!";"";0;0
+709;30;1;"Hola!";"";0;0
+710;30;1;"Namaste!";"";0;0
+711;30;1;"Aloha!";"";0;0
+712;30;1;"Hey, great to have you here!";"";0;0
+713;30;1;"Hey, glad you could make it!";"";0;0
+714;30;1;"Howdy, partner!";"";0;0
+715;30;1;"Hi, it's good to be in your company.";"";0;0
+716;30;1;"Good day!";"";0;0
+717;30;1;"Hey, thanks for being here!";"";0;0
+718;30;1;"It's a pleasure to see you.";"";0;0
+719;30;1;"Hey, good to see a friendly face!";"";0;0
+720;30;1;"Hi, I hope you're having a good day.";"";0;0
+721;30;1;"Hey, good to see you're doing well!";"";0;0
+722;30;1;"Hi, hope you're doing fine.";"";0;0
+723;31;1;"Hi there!";"";0;0
+724;31;1;"Hello, good to see you.";"";0;0
+725;31;1;"Greetings!";"";0;0
+726;31;1;"Salutations!";"";0;0
+727;31;1;"Nice to meet you!";"";0;0
+728;31;1;"Hiya!";"";0;0
+729;31;1;"Top of the morning to you!";"";0;0
+730;31;1;"Bonjour!";"";0;0
+731;31;1;"Welcome!";"";0;0
+732;31;1;"Good to see you again!";"";0;0
+733;31;1;"Hola!";"";0;0
+734;31;1;"Namaste!";"";0;0
+735;31;1;"Aloha!";"";0;0
+736;31;1;"Hey, great to have you here!";"";0;0
+737;31;1;"Hey, glad you could make it!";"";0;0
+738;31;1;"Howdy, partner!";"";0;0
+739;31;1;"Hi, it's good to be in your company.";"";0;0
+740;31;1;"Good day!";"";0;0
+741;31;1;"Hey, thanks for being here!";"";0;0
+742;31;1;"It's a pleasure to see you.";"";0;0
+743;31;1;"Hey, good to see a friendly face!";"";0;0
+744;31;1;"Hi, I hope you're having a good day.";"";0;0
+745;31;1;"Hey, good to see you're doing well!";"";0;0
+746;31;1;"Hi, hope you're doing fine.";"";0;0
+747;32;1;"Hi there!";"";0;0
+748;32;1;"Hello, good to see you.";"";0;0
+749;32;1;"Greetings!";"";0;0
+750;32;1;"Salutations!";"";0;0
+751;32;1;"Nice to meet you!";"";0;0
+752;32;1;"Hiya!";"";0;0
+753;32;1;"Top of the morning to you!";"";0;0
+754;32;1;"Bonjour!";"";0;0
+755;32;1;"Welcome!";"";0;0
+756;32;1;"Good to see you again!";"";0;0
+757;32;1;"Hola!";"";0;0
+758;32;1;"Namaste!";"";0;0
+759;32;1;"Aloha!";"";0;0
+760;32;1;"Hey, great to have you here!";"";0;0
+761;32;1;"Hey, glad you could make it!";"";0;0
+762;32;1;"Howdy, partner!";"";0;0
+763;32;1;"Hi, it's good to be in your company.";"";0;0
+764;32;1;"Good day!";"";0;0
+765;32;1;"Hey, thanks for being here!";"";0;0
+766;32;1;"It's a pleasure to see you.";"";0;0
+767;32;1;"Hey, good to see a friendly face!";"";0;0
+768;32;1;"Hi, I hope you're having a good day.";"";0;0
+769;32;1;"Hey, good to see you're doing well!";"";0;0
+770;32;1;"Hi, hope you're doing fine.";"";0;0
+771;33;1;"Hi there!";"";0;0
+772;33;1;"Hello, good to see you.";"";0;0
+773;33;1;"Greetings!";"";0;0
+774;33;1;"Salutations!";"";0;0
+775;33;1;"Nice to meet you!";"";0;0
+776;33;1;"Hiya!";"";0;0
+777;33;1;"Top of the morning to you!";"";0;0
+778;33;1;"Bonjour!";"";0;0
+779;33;1;"Welcome!";"";0;0
+780;33;1;"Good to see you again!";"";0;0
+781;33;1;"Hola!";"";0;0
+782;33;1;"Namaste!";"";0;0
+783;33;1;"Aloha!";"";0;0
+784;33;1;"Hey, great to have you here!";"";0;0
+785;33;1;"Hey, glad you could make it!";"";0;0
+786;33;1;"Howdy, partner!";"";0;0
+787;33;1;"Hi, it's good to be in your company.";"";0;0
+788;33;1;"Good day!";"";0;0
+789;33;1;"Hey, thanks for being here!";"";0;0
+790;33;1;"It's a pleasure to see you.";"";0;0
+791;33;1;"Hey, good to see a friendly face!";"";0;0
+792;33;1;"Hi, I hope you're having a good day.";"";0;0
+793;33;1;"Hey, good to see you're doing well!";"";0;0
+794;33;1;"Hi, hope you're doing fine.";"";0;0
+795;34;1;"Hi there!";"";0;0
+796;34;1;"Hello, good to see you.";"";0;0
+797;34;1;"Greetings!";"";0;0
+798;34;1;"Salutations!";"";0;0
+799;34;1;"Nice to meet you!";"";0;0
+800;34;1;"Hiya!";"";0;0
+801;34;1;"Top of the morning to you!";"";0;0
+802;34;1;"Bonjour!";"";0;0
+803;34;1;"Welcome!";"";0;0
+804;34;1;"Good to see you again!";"";0;0
+805;34;1;"Hola!";"";0;0
+806;34;1;"Namaste!";"";0;0
+807;34;1;"Aloha!";"";0;0
+808;34;1;"Hey, great to have you here!";"";0;0
+809;34;1;"Hey, glad you could make it!";"";0;0
+810;34;1;"Howdy, partner!";"";0;0
+811;34;1;"Hi, it's good to be in your company.";"";0;0
+812;34;1;"Good day!";"";0;0
+813;34;1;"Hey, thanks for being here!";"";0;0
+814;34;1;"It's a pleasure to see you.";"";0;0
+815;34;1;"Hey, good to see a friendly face!";"";0;0
+816;34;1;"Hi, I hope you're having a good day.";"";0;0
+817;34;1;"Hey, good to see you're doing well!";"";0;0
+818;34;1;"Hi, hope you're doing fine.";"";0;0
+819;35;1;"Hi there!";"";0;0
+820;35;1;"Hello, good to see you.";"";0;0
+821;35;1;"Greetings!";"";0;0
+822;35;1;"Salutations!";"";0;0
+823;35;1;"Nice to meet you!";"";0;0
+824;35;1;"Hiya!";"";0;0
+825;35;1;"Top of the morning to you!";"";0;0
+826;35;1;"Bonjour!";"";0;0
+827;35;1;"Welcome!";"";0;0
+828;35;1;"Good to see you again!";"";0;0
+829;35;1;"Hola!";"";0;0
+830;35;1;"Namaste!";"";0;0
+831;35;1;"Aloha!";"";0;0
+832;35;1;"Hey, great to have you here!";"";0;0
+833;35;1;"Hey, glad you could make it!";"";0;0
+834;35;1;"Howdy, partner!";"";0;0
+835;35;1;"Hi, it's good to be in your company.";"";0;0
+836;35;1;"Good day!";"";0;0
+837;35;1;"Hey, thanks for being here!";"";0;0
+838;35;1;"It's a pleasure to see you.";"";0;0
+839;35;1;"Hey, good to see a friendly face!";"";0;0
+840;35;1;"Hi, I hope you're having a good day.";"";0;0
+841;35;1;"Hey, good to see you're doing well!";"";0;0
+842;35;1;"Hi, hope you're doing fine.";"";0;0
+843;36;1;"Hi there!";"";0;0
+844;36;1;"Hello, good to see you.";"";0;0
+845;36;1;"Greetings!";"";0;0
+846;36;1;"Salutations!";"";0;0
+847;36;1;"Nice to meet you!";"";0;0
+848;36;1;"Hiya!";"";0;0
+849;36;1;"Top of the morning to you!";"";0;0
+850;36;1;"Bonjour!";"";0;0
+851;36;1;"Welcome!";"";0;0
+852;36;1;"Good to see you again!";"";0;0
+853;36;1;"Hola!";"";0;0
+854;36;1;"Namaste!";"";0;0
+855;36;1;"Aloha!";"";0;0
+856;36;1;"Hey, great to have you here!";"";0;0
+857;36;1;"Hey, glad you could make it!";"";0;0
+858;36;1;"Howdy, partner!";"";0;0
+859;36;1;"Hi, it's good to be in your company.";"";0;0
+860;36;1;"Good day!";"";0;0
+861;36;1;"Hey, thanks for being here!";"";0;0
+862;36;1;"It's a pleasure to see you.";"";0;0
+863;36;1;"Hey, good to see a friendly face!";"";0;0
+864;36;1;"Hi, I hope you're having a good day.";"";0;0
+865;36;1;"Hey, good to see you're doing well!";"";0;0
+866;36;1;"Hi, hope you're doing fine.";"";0;0
+867;37;1;"Hi there!";"";0;0
+868;37;1;"Hello, good to see you.";"";0;0
+869;37;1;"Greetings!";"";0;0
+870;37;1;"Salutations!";"";0;0
+871;37;1;"Nice to meet you!";"";0;0
+872;37;1;"Hiya!";"";0;0
+873;37;1;"Top of the morning to you!";"";0;0
+874;37;1;"Bonjour!";"";0;0
+875;37;1;"Welcome!";"";0;0
+876;37;1;"Good to see you again!";"";0;0
+877;37;1;"Hola!";"";0;0
+878;37;1;"Namaste!";"";0;0
+879;37;1;"Aloha!";"";0;0
+880;37;1;"Hey, great to have you here!";"";0;0
+881;37;1;"Hey, glad you could make it!";"";0;0
+882;37;1;"Howdy, partner!";"";0;0
+883;37;1;"Hi, it's good to be in your company.";"";0;0
+884;37;1;"Good day!";"";0;0
+885;37;1;"Hey, thanks for being here!";"";0;0
+886;37;1;"It's a pleasure to see you.";"";0;0
+887;37;1;"Hey, good to see a friendly face!";"";0;0
+888;37;1;"Hi, I hope you're having a good day.";"";0;0
+889;37;1;"Hey, good to see you're doing well!";"";0;0
+890;37;1;"Hi, hope you're doing fine.";"";0;0
+891;38;1;"Hi there!";"";0;0
+892;38;1;"Hello, good to see you.";"";0;0
+893;38;1;"Greetings!";"";0;0
+894;38;1;"Salutations!";"";0;0
+895;38;1;"Nice to meet you!";"";0;0
+896;38;1;"Hiya!";"";0;0
+897;38;1;"Top of the morning to you!";"";0;0
+898;38;1;"Bonjour!";"";0;0
+899;38;1;"Welcome!";"";0;0
+900;38;1;"Good to see you again!";"";0;0
+901;38;1;"Hola!";"";0;0
+902;38;1;"Namaste!";"";0;0
+903;38;1;"Aloha!";"";0;0
+904;38;1;"Hey, great to have you here!";"";0;0
+905;38;1;"Hey, glad you could make it!";"";0;0
+906;38;1;"Howdy, partner!";"";0;0
+907;38;1;"Hi, it's good to be in your company.";"";0;0
+908;38;1;"Good day!";"";0;0
+909;38;1;"Hey, thanks for being here!";"";0;0
+910;38;1;"It's a pleasure to see you.";"";0;0
+911;38;1;"Hey, good to see a friendly face!";"";0;0
+912;38;1;"Hi, I hope you're having a good day.";"";0;0
+913;38;1;"Hey, good to see you're doing well!";"";0;0
+914;38;1;"Hi, hope you're doing fine.";"";0;0
+915;39;1;"Hi there!";"";0;0
+916;39;1;"Hello, good to see you.";"";0;0
+917;39;1;"Greetings!";"";0;0
+918;39;1;"Salutations!";"";0;0
+919;39;1;"Nice to meet you!";"";0;0
+920;39;1;"Hiya!";"";0;0
+921;39;1;"Top of the morning to you!";"";0;0
+922;39;1;"Bonjour!";"";0;0
+923;39;1;"Welcome!";"";0;0
+924;39;1;"Good to see you again!";"";0;0
+925;39;1;"Hola!";"";0;0
+926;39;1;"Namaste!";"";0;0
+927;39;1;"Aloha!";"";0;0
+928;39;1;"Hey, great to have you here!";"";0;0
+929;39;1;"Hey, glad you could make it!";"";0;0
+930;39;1;"Howdy, partner!";"";0;0
+931;39;1;"Hi, it's good to be in your company.";"";0;0
+932;39;1;"Good day!";"";0;0
+933;39;1;"Hey, thanks for being here!";"";0;0
+934;39;1;"It's a pleasure to see you.";"";0;0
+935;39;1;"Hey, good to see a friendly face!";"";0;0
+936;39;1;"Hi, I hope you're having a good day.";"";0;0
+937;39;1;"Hey, good to see you're doing well!";"";0;0
+938;39;1;"Hi, hope you're doing fine.";"";0;0
+939;40;1;"Hi there!";"";0;0
+940;40;1;"Hello, good to see you.";"";0;0
+941;40;1;"Greetings!";"";0;0
+942;40;1;"Salutations!";"";0;0
+943;40;1;"Nice to meet you!";"";0;0
+944;40;1;"Hiya!";"";0;0
+945;40;1;"Top of the morning to you!";"";0;0
+946;40;1;"Bonjour!";"";0;0
+947;40;1;"Welcome!";"";0;0
+948;40;1;"Good to see you again!";"";0;0
+949;40;1;"Hola!";"";0;0
+950;40;1;"Namaste!";"";0;0
+951;40;1;"Aloha!";"";0;0
+952;40;1;"Hey, great to have you here!";"";0;0
+953;40;1;"Hey, glad you could make it!";"";0;0
+954;40;1;"Howdy, partner!";"";0;0
+955;40;1;"Hi, it's good to be in your company.";"";0;0
+956;40;1;"Good day!";"";0;0
+957;40;1;"Hey, thanks for being here!";"";0;0
+958;40;1;"It's a pleasure to see you.";"";0;0
+959;40;1;"Hey, good to see a friendly face!";"";0;0
+960;40;1;"Hi, I hope you're having a good day.";"";0;0
+961;40;1;"Hey, good to see you're doing well!";"";0;0
+962;40;1;"Hi, hope you're doing fine.";"";0;0
+963;41;1;"Hi there!";"";0;0
+964;41;1;"Hello, good to see you.";"";0;0
+965;41;1;"Greetings!";"";0;0
+966;41;1;"Salutations!";"";0;0
+967;41;1;"Nice to meet you!";"";0;0
+968;41;1;"Hiya!";"";0;0
+969;41;1;"Top of the morning to you!";"";0;0
+970;41;1;"Bonjour!";"";0;0
+971;41;1;"Welcome!";"";0;0
+972;41;1;"Good to see you again!";"";0;0
+973;41;1;"Hola!";"";0;0
+974;41;1;"Namaste!";"";0;0
+975;41;1;"Aloha!";"";0;0
+976;41;1;"Hey, great to have you here!";"";0;0
+977;41;1;"Hey, glad you could make it!";"";0;0
+978;41;1;"Howdy, partner!";"";0;0
+979;41;1;"Hi, it's good to be in your company.";"";0;0
+980;41;1;"Good day!";"";0;0
+981;41;1;"Hey, thanks for being here!";"";0;0
+982;41;1;"It's a pleasure to see you.";"";0;0
+983;41;1;"Hey, good to see a friendly face!";"";0;0
+984;41;1;"Hi, I hope you're having a good day.";"";0;0
+985;41;1;"Hey, good to see you're doing well!";"";0;0
+986;41;1;"Hi, hope you're doing fine.";"";0;0
+987;42;1;"Hi there!";"";0;0
+988;42;1;"Hello, good to see you.";"";0;0
+989;42;1;"Greetings!";"";0;0
+990;42;1;"Salutations!";"";0;0
+991;42;1;"Nice to meet you!";"";0;0
+992;42;1;"Hiya!";"";0;0
+993;42;1;"Top of the morning to you!";"";0;0
+994;42;1;"Bonjour!";"";0;0
+995;42;1;"Welcome!";"";0;0
+996;42;1;"Good to see you again!";"";0;0
+997;42;1;"Hola!";"";0;0
+998;42;1;"Namaste!";"";0;0
+999;42;1;"Aloha!";"";0;0
+1000;42;1;"Hey, great to have you here!";"";0;0
+1001;42;1;"Hey, glad you could make it!";"";0;0
+1002;42;1;"Howdy, partner!";"";0;0
+1003;42;1;"Hi, it's good to be in your company.";"";0;0
+1004;42;1;"Good day!";"";0;0
+1005;42;1;"Hey, thanks for being here!";"";0;0
+1006;42;1;"It's a pleasure to see you.";"";0;0
+1007;42;1;"Hey, good to see a friendly face!";"";0;0
+1008;42;1;"Hi, I hope you're having a good day.";"";0;0
+1009;42;1;"Hey, good to see you're doing well!";"";0;0
+1010;42;1;"Hi, hope you're doing fine.";"";0;0
+1011;43;1;"Hi there!";"";0;0
+1012;43;1;"Hello, good to see you.";"";0;0
+1013;43;1;"Greetings!";"";0;0
+1014;43;1;"Salutations!";"";0;0
+1015;43;1;"Nice to meet you!";"";0;0
+1016;43;1;"Hiya!";"";0;0
+1017;43;1;"Top of the morning to you!";"";0;0
+1018;43;1;"Bonjour!";"";0;0
+1019;43;1;"Welcome!";"";0;0
+1020;43;1;"Good to see you again!";"";0;0
+1021;43;1;"Hola!";"";0;0
+1022;43;1;"Namaste!";"";0;0
+1023;43;1;"Aloha!";"";0;0
+1024;43;1;"Hey, great to have you here!";"";0;0
+1025;43;1;"Hey, glad you could make it!";"";0;0
+1026;43;1;"Howdy, partner!";"";0;0
+1027;43;1;"Hi, it's good to be in your company.";"";0;0
+1028;43;1;"Good day!";"";0;0
+1029;43;1;"Hey, thanks for being here!";"";0;0
+1030;43;1;"It's a pleasure to see you.";"";0;0
+1031;43;1;"Hey, good to see a friendly face!";"";0;0
+1032;43;1;"Hi, I hope you're having a good day.";"";0;0
+1033;43;1;"Hey, good to see you're doing well!";"";0;0
+1034;43;1;"Hi, hope you're doing fine.";"";0;0
+1035;44;1;"Hi there!";"";0;0
+1036;44;1;"Hello, good to see you.";"";0;0
+1037;44;1;"Greetings!";"";0;0
+1038;44;1;"Salutations!";"";0;0
+1039;44;1;"Nice to meet you!";"";0;0
+1040;44;1;"Hiya!";"";0;0
+1041;44;1;"Top of the morning to you!";"";0;0
+1042;44;1;"Bonjour!";"";0;0
+1043;44;1;"Welcome!";"";0;0
+1044;44;1;"Good to see you again!";"";0;0
+1045;44;1;"Hola!";"";0;0
+1046;44;1;"Namaste!";"";0;0
+1047;44;1;"Aloha!";"";0;0
+1048;44;1;"Hey, great to have you here!";"";0;0
+1049;44;1;"Hey, glad you could make it!";"";0;0
+1050;44;1;"Howdy, partner!";"";0;0
+1051;44;1;"Hi, it's good to be in your company.";"";0;0
+1052;44;1;"Good day!";"";0;0
+1053;44;1;"Hey, thanks for being here!";"";0;0
+1054;44;1;"It's a pleasure to see you.";"";0;0
+1055;44;1;"Hey, good to see a friendly face!";"";0;0
+1056;44;1;"Hi, I hope you're having a good day.";"";0;0
+1057;44;1;"Hey, good to see you're doing well!";"";0;0
+1058;44;1;"Hi, hope you're doing fine.";"";0;0
+1059;45;1;"Hi there!";"";0;0
+1060;45;1;"Hello, good to see you.";"";0;0
+1061;45;1;"Greetings!";"";0;0
+1062;45;1;"Salutations!";"";0;0
+1063;45;1;"Nice to meet you!";"";0;0
+1064;45;1;"Hiya!";"";0;0
+1065;45;1;"Top of the morning to you!";"";0;0
+1066;45;1;"Bonjour!";"";0;0
+1067;45;1;"Welcome!";"";0;0
+1068;45;1;"Good to see you again!";"";0;0
+1069;45;1;"Hola!";"";0;0
+1070;45;1;"Namaste!";"";0;0
+1071;45;1;"Aloha!";"";0;0
+1072;45;1;"Hey, great to have you here!";"";0;0
+1073;45;1;"Hey, glad you could make it!";"";0;0
+1074;45;1;"Howdy, partner!";"";0;0
+1075;45;1;"Hi, it's good to be in your company.";"";0;0
+1076;45;1;"Good day!";"";0;0
+1077;45;1;"Hey, thanks for being here!";"";0;0
+1078;45;1;"It's a pleasure to see you.";"";0;0
+1079;45;1;"Hey, good to see a friendly face!";"";0;0
+1080;45;1;"Hi, I hope you're having a good day.";"";0;0
+1081;45;1;"Hey, good to see you're doing well!";"";0;0
+1082;45;1;"Hi, hope you're doing fine.";"";0;0
+1083;46;1;"Hi there!";"";0;0
+1084;46;1;"Hello, good to see you.";"";0;0
+1085;46;1;"Greetings!";"";0;0
+1086;46;1;"Salutations!";"";0;0
+1087;46;1;"Nice to meet you!";"";0;0
+1088;46;1;"Hiya!";"";0;0
+1089;46;1;"Top of the morning to you!";"";0;0
+1090;46;1;"Bonjour!";"";0;0
+1091;46;1;"Welcome!";"";0;0
+1092;46;1;"Good to see you again!";"";0;0
+1093;46;1;"Hola!";"";0;0
+1094;46;1;"Namaste!";"";0;0
+1095;46;1;"Aloha!";"";0;0
+1096;46;1;"Hey, great to have you here!";"";0;0
+1097;46;1;"Hey, glad you could make it!";"";0;0
+1098;46;1;"Howdy, partner!";"";0;0
+1099;46;1;"Hi, it's good to be in your company.";"";0;0
+1100;46;1;"Good day!";"";0;0
+1101;46;1;"Hey, thanks for being here!";"";0;0
+1102;46;1;"It's a pleasure to see you.";"";0;0
+1103;46;1;"Hey, good to see a friendly face!";"";0;0
+1104;46;1;"Hi, I hope you're having a good day.";"";0;0
+1105;46;1;"Hey, good to see you're doing well!";"";0;0
+1106;46;1;"Hi, hope you're doing fine.";"";0;0
+1107;47;1;"Hi there!";"";0;0
+1108;47;1;"Hello, good to see you.";"";0;0
+1109;47;1;"Greetings!";"";0;0
+1110;47;1;"Salutations!";"";0;0
+1111;47;1;"Nice to meet you!";"";0;0
+1112;47;1;"Hiya!";"";0;0
+1113;47;1;"Top of the morning to you!";"";0;0
+1114;47;1;"Bonjour!";"";0;0
+1115;47;1;"Welcome!";"";0;0
+1116;47;1;"Good to see you again!";"";0;0
+1117;47;1;"Hola!";"";0;0
+1118;47;1;"Namaste!";"";0;0
+1119;47;1;"Aloha!";"";0;0
+1120;47;1;"Hey, great to have you here!";"";0;0
+1121;47;1;"Hey, glad you could make it!";"";0;0
+1122;47;1;"Howdy, partner!";"";0;0
+1123;47;1;"Hi, it's good to be in your company.";"";0;0
+1124;47;1;"Good day!";"";0;0
+1125;47;1;"Hey, thanks for being here!";"";0;0
+1126;47;1;"It's a pleasure to see you.";"";0;0
+1127;47;1;"Hey, good to see a friendly face!";"";0;0
+1128;47;1;"Hi, I hope you're having a good day.";"";0;0
+1129;47;1;"Hey, good to see you're doing well!";"";0;0
+1130;47;1;"Hi, hope you're doing fine.";"";0;0
+1131;48;1;"Hi there!";"";0;0
+1132;48;1;"Hello, good to see you.";"";0;0
+1133;48;1;"Greetings!";"";0;0
+1134;48;1;"Salutations!";"";0;0
+1135;48;1;"Nice to meet you!";"";0;0
+1136;48;1;"Hiya!";"";0;0
+1137;48;1;"Top of the morning to you!";"";0;0
+1138;48;1;"Bonjour!";"";0;0
+1139;48;1;"Welcome!";"";0;0
+1140;48;1;"Good to see you again!";"";0;0
+1141;48;1;"Hola!";"";0;0
+1142;48;1;"Namaste!";"";0;0
+1143;48;1;"Aloha!";"";0;0
+1144;48;1;"Hey, great to have you here!";"";0;0
+1145;48;1;"Hey, glad you could make it!";"";0;0
+1146;48;1;"Howdy, partner!";"";0;0
+1147;48;1;"Hi, it's good to be in your company.";"";0;0
+1148;48;1;"Good day!";"";0;0
+1149;48;1;"Hey, thanks for being here!";"";0;0
+1150;48;1;"It's a pleasure to see you.";"";0;0
+1151;48;1;"Hey, good to see a friendly face!";"";0;0
+1152;48;1;"Hi, I hope you're having a good day.";"";0;0
+1153;48;1;"Hey, good to see you're doing well!";"";0;0
+1154;48;1;"Hi, hope you're doing fine.";"";0;0
+1155;49;1;"Hi there!";"";0;0
+1156;49;1;"Hello, good to see you.";"";0;0
+1157;49;1;"Greetings!";"";0;0
+1158;49;1;"Salutations!";"";0;0
+1159;49;1;"Nice to meet you!";"";0;0
+1160;49;1;"Hiya!";"";0;0
+1161;49;1;"Top of the morning to you!";"";0;0
+1162;49;1;"Bonjour!";"";0;0
+1163;49;1;"Welcome!";"";0;0
+1164;49;1;"Good to see you again!";"";0;0
+1165;49;1;"Hola!";"";0;0
+1166;49;1;"Namaste!";"";0;0
+1167;49;1;"Aloha!";"";0;0
+1168;49;1;"Hey, great to have you here!";"";0;0
+1169;49;1;"Hey, glad you could make it!";"";0;0
+1170;49;1;"Howdy, partner!";"";0;0
+1171;49;1;"Hi, it's good to be in your company.";"";0;0
+1172;49;1;"Good day!";"";0;0
+1173;49;1;"Hey, thanks for being here!";"";0;0
+1174;49;1;"It's a pleasure to see you.";"";0;0
+1175;49;1;"Hey, good to see a friendly face!";"";0;0
+1176;49;1;"Hi, I hope you're having a good day.";"";0;0
+1177;49;1;"Hey, good to see you're doing well!";"";0;0
+1178;49;1;"Hi, hope you're doing fine.";"";0;0
+1203;50;1;"Hi there!";"";0;0
+1204;50;1;"Hello, good to see you.";"";0;0
+1205;50;1;"Greetings!";"";0;0
+1206;50;1;"Salutations!";"";0;0
+1207;50;1;"Nice to meet you!";"";0;0
+1208;50;1;"Hiya!";"";0;0
+1209;50;1;"Top of the morning to you!";"";0;0
+1210;50;1;"Bonjour!";"";0;0
+1211;50;1;"Welcome!";"";0;0
+1212;50;1;"Good to see you again!";"";0;0
+1213;50;1;"Hola!";"";0;0
+1214;50;1;"Namaste!";"";0;0
+1215;50;1;"Aloha!";"";0;0
+1216;50;1;"Hey, great to have you here!";"";0;0
+1217;50;1;"Hey, glad you could make it!";"";0;0
+1218;50;1;"Howdy, partner!";"";0;0
+1219;50;1;"Hi, it's good to be in your company.";"";0;0
+1220;50;1;"Good day!";"";0;0
+1221;50;1;"Hey, thanks for being here!";"";0;0
+1222;50;1;"It's a pleasure to see you.";"";0;0
+1223;50;1;"Hey, good to see a friendly face!";"";0;0
+1224;50;1;"Hi, I hope you're having a good day.";"";0;0
+1225;50;1;"Hey, good to see you're doing well!";"";0;0
+1226;50;1;"Hi, hope you're doing fine.";"";0;0
+1227;51;1;"Hi there!";"";0;0
+1228;51;1;"Hello, good to see you.";"";0;0
+1229;51;1;"Greetings!";"";0;0
+1230;51;1;"Salutations!";"";0;0
+1231;51;1;"Nice to meet you!";"";0;0
+1232;51;1;"Hiya!";"";0;0
+1233;51;1;"Top of the morning to you!";"";0;0
+1234;51;1;"Bonjour!";"";0;0
+1235;51;1;"Welcome!";"";0;0
+1236;51;1;"Good to see you again!";"";0;0
+1237;51;1;"Hola!";"";0;0
+1238;51;1;"Namaste!";"";0;0
+1239;51;1;"Aloha!";"";0;0
+1240;51;1;"Hey, great to have you here!";"";0;0
+1241;51;1;"Hey, glad you could make it!";"";0;0
+1242;51;1;"Howdy, partner!";"";0;0
+1243;51;1;"Hi, it's good to be in your company.";"";0;0
+1244;51;1;"Good day!";"";0;0
+1245;51;1;"Hey, thanks for being here!";"";0;0
+1246;51;1;"It's a pleasure to see you.";"";0;0
+1247;51;1;"Hey, good to see a friendly face!";"";0;0
+1248;51;1;"Hi, I hope you're having a good day.";"";0;0
+1249;51;1;"Hey, good to see you're doing well!";"";0;0
+1250;51;1;"Hi, hope you're doing fine.";"";0;0
+1251;52;1;"Hi there!";"";0;0
+1252;52;1;"Hello, good to see you.";"";0;0
+1253;52;1;"Greetings!";"";0;0
+1254;52;1;"Salutations!";"";0;0
+1255;52;1;"Nice to meet you!";"";0;0
+1256;52;1;"Hiya!";"";0;0
+1257;52;1;"Top of the morning to you!";"";0;0
+1258;52;1;"Bonjour!";"";0;0
+1259;52;1;"Welcome!";"";0;0
+1260;52;1;"Good to see you again!";"";0;0
+1261;52;1;"Hola!";"";0;0
+1262;52;1;"Namaste!";"";0;0
+1263;52;1;"Aloha!";"";0;0
+1264;52;1;"Hey, great to have you here!";"";0;0
+1265;52;1;"Hey, glad you could make it!";"";0;0
+1266;52;1;"Howdy, partner!";"";0;0
+1267;52;1;"Hi, it's good to be in your company.";"";0;0
+1268;52;1;"Good day!";"";0;0
+1269;52;1;"Hey, thanks for being here!";"";0;0
+1270;52;1;"It's a pleasure to see you.";"";0;0
+1271;52;1;"Hey, good to see a friendly face!";"";0;0
+1272;52;1;"Hi, I hope you're having a good day.";"";0;0
+1273;52;1;"Hey, good to see you're doing well!";"";0;0
+1274;52;1;"Hi, hope you're doing fine.";"";0;0
